@@ -1,0 +1,31 @@
+body{
+     background: url(../images/BoudhaNepal.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+div{
+    background-color: #0f152e;
+    width: 50%;
+    text-align: center;
+    margin: 280px auto;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    color: orange;
+    opacity: 0.8;
+}
+button{
+    background: #efefef;
+    padding: 10px;
+    color: black;
+    font-size: 1.4em;
+    border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    font-size: 2.2em;
+   
+}
+p{
+    font-size: 1.3em;
+}
+
